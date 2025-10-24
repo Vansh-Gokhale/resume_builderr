@@ -24,11 +24,7 @@ A small, friendly, printable resume builder optimized for Applicant Tracking Sys
 
 Open `index.html` directly in your browser, or run a simple local server:
 
-- Python 3:
 
-  cd /path/to/project
-  python3 -m http.server 8000
-  # then open http://localhost:8000
 
 - VS Code: use Live Server and click "Go Live"
 
